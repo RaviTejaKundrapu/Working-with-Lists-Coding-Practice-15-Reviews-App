@@ -1,0 +1,11 @@
+0,1,2,3 = 4 length
+
+right click
+------------
+initially we have 0 that is !== 3length-1 so, 0+1 in right click then 1 value,2,3
+if equal to 4 length of array then 3===4-1 then 0
+
+left click
+----------
+
+currentItemIndex === 0 ? 0 : currentItemIndex - 1
